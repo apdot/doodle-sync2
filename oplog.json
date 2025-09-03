@@ -1,2 +1,3 @@
 {"note":[],"blob":[],"directory":[{"updated_at":1756917628,"created_at":1756917628,"uuid":"2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881","project":"x","id":1,"name":"x","status":1,"synced_at":1756917643}]}
 {"note":[],"blob":[],"directory":[{"updated_at":1756917662,"created_at":1756917662,"uuid":"cfa3795d-3764-4cf7-a935-735283b3520e","project":"x","parent":"3507deaa-c8e7-4a50-b30c-3273ea668abf","id":5,"name":"2works","status":1,"synced_at":1756917673},{"updated_at":1756917670,"created_at":1756917671,"uuid":"8c255b82-d771-4b0f-b5df-25aeedaf2508","project":"x","parent":"2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881","id":6,"name":"2nice","status":1,"synced_at":1756917673}]}
+{"directory":[],"blob":[],"note":[]}
